@@ -1,7 +1,7 @@
 {
-  "name": "dispatch-science-wrapper",
+  "name": "onfleet-wrapper",
   "version": "1.0.0",
-  "description": "Dispatch science wrapper for node",
+  "description": "Onfleet wrapper for node",
   "main": "index.js",
   "dependencies": {
     "es6-promise": "^3.0.2",
