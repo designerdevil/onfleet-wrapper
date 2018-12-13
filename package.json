@@ -1,0 +1,30 @@
+{
+  "name": "dispatch-science-wrapper",
+  "version": "1.0.0",
+  "description": "Dispatch science wrapper for node",
+  "main": "index.js",
+  "dependencies": {
+    "es6-promise": "^3.0.2",
+    "isomorphic-fetch": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/designerdevil/onfleet-wrapper.git"
+  },
+  "keywords": [
+    "onfleet",
+    "wrapper",
+    "node",
+    "npm"
+  ],
+  "author": "@Gaurav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/designerdevil/onfleet-wrapper/issues"
+  },
+  "homepage": "https://github.com/designerdevil/onfleet-wrapper#readme"
+}
